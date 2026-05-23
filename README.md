@@ -27,12 +27,12 @@ Currently pushing files...
 
 ### Data & Backend
 
-- Pandas
-- NumPy
-- FastAPI
-- PostgreSQL / MySQL
-- REST APIs
-- WebSockets
+- Python : Pandas, NumPy, scikit-learn, FastAPI, Plotly
+- Bases de données : PostgreSQL, MySQL (SQL avancé)
+- APIs REST et développement backend
+- JavaScript / TypeScript pour visualisation et interfaces web
+- Environnements : JupyterLab
+- Approche orientée traitement, intégration et visualisation de données
 
 ### Visualization
 
