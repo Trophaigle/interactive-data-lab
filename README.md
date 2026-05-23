@@ -36,8 +36,7 @@ Currently pushing files...
 
 ### Visualization
 
-- Next.js
-- React
+- Streamlit
 - Interactive dashboards
 - Real-time data visualization
 
