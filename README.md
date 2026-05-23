@@ -27,12 +27,12 @@ Currently pushing files...
 
 ### Data & Backend
 
-- Python : Pandas, NumPy, scikit-learn, FastAPI, Plotly
-- Bases de données : PostgreSQL, MySQL (SQL avancé)
-- APIs REST et développement backend
-- JavaScript / TypeScript pour visualisation et interfaces web
-- Environnements : JupyterLab
-- Approche orientée traitement, intégration et visualisation de données
+- Python: Pandas, NumPy, scikit-learn, FastAPI, Plotly
+- Databases: PostgreSQL, MySQL (advanced SQL)
+- REST APIs and backend development
+- JavaScript / TypeScript for data visualization and web interfaces
+- Environments: JupyterLab
+- Data-focused approach: data processing, integration, and visualization pipelines
 
 ### Visualization
 
