@@ -45,18 +45,6 @@ The objective of this project is to progressively build a complete understanding
 - JupyterLab
 - Linux
 
-## 📂 Repository Structure
-
-interactive-data-lab/
-│
-├── notebooks/           # Jupyter notebooks and data exploration
-├── backend/             # APIs and backend services
-├── web-visualization/   # React / Next.js visualization projects
-├── datasets/            # Experimental datasets
-├── realtime/            # Real-time data streaming experiments
-├── xr-experiments/      # 3D/XR interactive visualization prototypes
-└── README.md
-
 ## 🎯 Goals
 
 - Strengthen practical skills in data science and backend development
