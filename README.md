@@ -6,8 +6,6 @@ Initiated during academic projects at Chalmers University of Technology and cont
 
 The objective of this project is to progressively build a complete understanding of the modern data stack while combining software engineering, data processing, and interactive visualization approaches.
 
-Currently pushing files...
-
 ## 🚀 Main Topics Explored
 
 - Data processing and analysis with Python
