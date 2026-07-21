@@ -1,4 +1,4 @@
-# Interactive Data-Lab 
+# data-analysis-etl-pipeline
 
 Personal project focused on exploring modern data science workflows, backend systems, and interactive data visualization through practical experimentation and autonomous learning.
 
